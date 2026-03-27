@@ -1,6 +1,6 @@
 # FCTE Hoje
 
-## Introdução
+## Introdução 
 
 Repositório destinado à documentação da Entrega 01 do projeto **FCTE Hoje**, desenvolvido pela Equipe 04 da disciplina *FGA0208 – Arquitetura e Desenho de Software*, ministrada pela professora Milene Serrano no semestre 2026.2.
 
